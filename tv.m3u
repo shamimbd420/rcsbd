@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BPL-23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3Ideg5O9MHWbxtwEUwbgYBU_VyD0mu_RjQW9WqEm&s" group-title="Bangla",BPL-23
+#EXTINF:-1 tvg-id="" tvg-name="Shamim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3Ideg5O9MHWbxtwEUwbgYBU_VyD0mu_RjQW9WqEm&s" group-title="Bangla",BPL-23
 http://10.10.10.10/hls/nagoriktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nexus Television" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Sports",Sports 18
 http://10.10.10.10/hls/bein1.m3u8
